@@ -9,7 +9,7 @@ Disclaimer: We were allowed to use AI generation for this project if needed.
 
 ### Authors
 
-Keng Yang and Cheng Her
+Keng Yang and Cheng Her, students at the University of St. Thomas
 
 ## Installation
 
